@@ -1,3 +1,5 @@
+React Flux Boilerplate with appContext.js and store.js
+
 # WebApp boilerplate with React JS/Flux
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
 
